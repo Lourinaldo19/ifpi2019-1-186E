@@ -1,0 +1,17 @@
+print("Eu gosto de matar insetos:")
+print("                    __     __")
+print("    ,,,,,,,,,,,,,,,,  \   /")
+print("  /  ( ( ( ( ( ( ( ( \(= =)")
+print("<    ( ( ( ( ( ( ( ( /( ^ )")
+print("  \__(_(_(_(_(_(_(_(_)  ~  ")
+print("   ^  ^ ^ ^ ^ ^ ^ ^ ^" )
+
+print("Eu moro em Teresina:")
+print("")
+print("   _|_")
+print("  |   |")
+print("  |#  |____")
+print("  |   |    |")
+print("  |  #|  # |")
+print("  |   | #  |")
+
